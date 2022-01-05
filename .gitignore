@@ -1,6 +1,10 @@
 # Project exclude paths
 /.gradle/
+.idea
+.gradle
 /build/
 /out/
 /out/production/classes/
-/out/test/classes/
+/out/test/classes/freetec-springboot-webservice/
+freetec-springboot-webservice/
+freetec-springboot-webservice/
